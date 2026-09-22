@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Entry 02 — Thank You! | Type Journal</title>
+<meta name="description" content="A weekly typography journal entry by Mia Weitzman." />
+<link rel="stylesheet" href="../style.css" />
+</head>
+<body>
+
+  <header class="site-header">
+    <div class="wrap">
+      <a class="brand" href="../index.html">TYPE JOURNAL</a>
+      <nav>
+        <a href="../index.html#entries">Entries</a>
+        <a href="../index.html#about">About</a>
+      </nav>
+    </div>
+  </header>
+
+  <section class="entry-header">
+    <div class="wrap">
+      <div class="eyebrow">Entry 02 · September 22, 2026</div>
+      <h1 class="heading display">Entry 02 — Thank You!</h1>
+
+      <div class="entry-layout">
+        <div class="photo">
+          <img src="entry-02-photo.png" alt="cafe guest check with 'Thank You!' printed across the top in Freestyle Script">
+        </div>
+
+        <div class="writeup">
+          <span class="entry-tag">SEPTEMBER 22, 2026</span>
+          <h2 class="sample-title display">Thank You! Guest Check</h2>
+          <p class="body-copy">Shinola serves your matcha with a guest check slip under your drink, where they write your order details and name. While studying at this cafe, I flipped the check over and started scribbling notes. As I was writing, I caught myself really looking at the "Thank You!" printed across the top, which instantly reminded me of classic Looney Tunes title cards. Stressed as I was, that little bit of nostalgia gave me a genuine moment of relief. This typeface is Freestyle Script (specifically Freestyle Script Std Regular, created by Martin Wait for Letraset and later licensed by ITC). It falls under Casual / Brush Script, tracing back directly to penmanship and handwriting, which is a smart move for something transactional like a check; it makes the transaction more approachable and cheerful. It refutes the bad rep Freestyle Script often gets for being dated or cheesy; it really works here because it plays directly against the rigid, structured grid used to take orders.
+</p>
+        </div>
+      </div>
+
+      <nav class="entry-nav">
+        <a href="entry-01.html">&larr; Previous entry</a>
+        <a href="../index.html#entries">All entries</a>
+        <span
