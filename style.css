@@ -255,6 +255,10 @@ section.dark .body-copy { color: #cfcdc6; }
   padding: 32px;
   flex-shrink: 0;
 }
+.entry-layout .photo:has(img) {
+  border: none;
+  padding: 0;
+}
 .entry-layout .photo img {
   width: 100%;
   height: 100%;
